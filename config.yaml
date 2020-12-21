@@ -37,7 +37,7 @@ params:
       - type: action
         template: action
         label: GitHub
-        url: 'https://github.com/acdix'
+        url: 'https://github.com/acidix'
         style: icon
         icon_class: fa-github
         new_window: true
