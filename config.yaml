@@ -2,7 +2,7 @@ title: nxhelp
 baseURL: /
 params:
   description: A minimal blogging theme for Stackbit
-  palette: yellow
+  palette: blue
   header:
     type: header
     template: header
