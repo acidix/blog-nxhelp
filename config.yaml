@@ -7,7 +7,7 @@ params:
     type: header
     template: header
     title: nxhelp
-    tagline: Minimal and clean blog theme
+    tagline: By Thomas Uhde
     background_img: images/header-bg.jpg
     has_nav: true
     nav_links:
