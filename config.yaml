@@ -7,8 +7,7 @@ params:
     type: header
     template: header
     title: nxhelp
-    tagline: By Thomas Uhde
-    background_img: images/header-bg.jpg
+    tagline: by Thomas Uhde
     has_nav: true
     nav_links:
       - type: action
